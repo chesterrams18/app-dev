@@ -1,6 +1,6 @@
 # app-dev
 My first repository 
-# Spider-Man: No Way Home
+#**Spider-Man: No Way Home**
 Spider-Man: No Way Home is a highly anticipated installment in the Spider-Man film franchise, released in 2021. Directed by Jon Watts, this film is part of the Marvel Cinematic Universe (MCU) and features Tom Holland reprising his role as Peter Parker, aka Spider-Man.
 
 **Plot Synopsis**
@@ -11,3 +11,10 @@ As a result, alternate versions of familiar characters from previous Spider-Man 
 The events of No Way Home have significant implications for the larger MCU, particularly with regard to the multiverse. The film sets the stage for future MCU projects and expands the possibilities of storytelling by acknowledging the interconnectedness of various Marvel universes.
 
 Spider-Man: No Way Home stands out as a cinematic celebration of Spider-Man's legacy while pushing the boundaries of the MCU's narrative landscape.
+
+Different Spider-Mans in the movie:
+- Tom Holland
+- Andrew Garfield
+- Tobey Maguire
+
+  You can watch it here [Spider-Man: No Way Home](https://www.sonypictures.com/movies/spidermannowayhome) :wink:
